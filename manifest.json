@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Calculator",
+  "version": "1.0.0",
+  "description": "A professional-grade, ad-free calculator extension for performing quick and accurate calculations.",
+  "action": {
+    "default_title": "Simple Calculator",
+    "default_popup": "calculator.html"
+  },
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
